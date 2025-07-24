@@ -1,0 +1,3 @@
+Hello Bernard, How have you been?
+ We are learning node Js 'Streams'
+ That is good to note.
